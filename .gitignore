@@ -1,0 +1,7 @@
+# Allowlist: only the hand-written site is tracked; the old Quarto project stays local.
+*
+!/.gitignore
+!/README.md
+!/index.html
+!/style.css
+!/photo.jpg
