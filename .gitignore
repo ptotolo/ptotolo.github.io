@@ -1,4 +1,4 @@
-# Allowlist: only the hand-written site is tracked; the old Quarto project stays local.
+# Allowlist: only the site's own files are tracked.
 *
 !/.gitignore
 !/README.md
