@@ -1,4 +1,5 @@
 :root { color-scheme: light dark; }
 body { max-width: 38rem; margin: 2rem auto; padding: 0 1rem; font: 1.125rem/1.6 system-ui, sans-serif; }
 header { display: flex; justify-content: space-between; align-items: baseline; }
+li { margin-bottom: 0.5em; }
 img { max-width: 100%; height: auto; border-radius: 4px; }
